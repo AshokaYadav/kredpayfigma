@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1060" viewBox="0 0 1440 1060">
+<rect width="1440" height="1060" fill="#F2F5F0"/>
+<text x="80" y="110" font-family="Anek Latin" font-size="56" font-weight="700" fill="#13261F">KredPay design system</text>
+<text x="80" y="150" font-family="Anek Latin" font-size="20" fill="#5A6B62">Colours, type, buttons and shapes used across the web app</text>
+<text x="80" y="230" font-family="Anek Latin" font-size="24" font-weight="600" fill="#13261F">Colours</text>
+<rect x="80" y="260" width="242" height="96" rx="16" fill="#0C3B2E"/>
+<text x="80" y="384" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Forest  #0C3B2E</text>
+<text x="80" y="408" font-family="Anek Latin" font-size="14" fill="#5A6B62">Header bands, footer, dark buttons</text>
+<rect x="342" y="260" width="242" height="96" rx="16" fill="#14A850"/>
+<text x="342" y="384" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Leaf  #14A850</text>
+<text x="342" y="408" font-family="Anek Latin" font-size="14" fill="#5A6B62">Primary actions, success</text>
+<rect x="604" y="260" width="242" height="96" rx="16" fill="#F28C1B"/>
+<text x="604" y="384" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Saffron  #F28C1B</text>
+<text x="604" y="408" font-family="Anek Latin" font-size="14" fill="#5A6B62">PAID stamp, selection, focus</text>
+<rect x="866" y="260" width="242" height="96" rx="16" fill="#B8E986"/>
+<text x="866" y="384" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Lime  #B8E986</text>
+<text x="866" y="408" font-family="Anek Latin" font-size="14" fill="#5A6B62">Accents on forest</text>
+<rect x="1128" y="260" width="242" height="96" rx="16" fill="#F2F5F0" stroke="#D6E0D7"/>
+<text x="1128" y="384" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Paper  #F2F5F0</text>
+<text x="1128" y="408" font-family="Anek Latin" font-size="14" fill="#5A6B62">Page background</text>
+<rect x="80" y="450" width="242" height="96" rx="16" fill="#E6EEE5" stroke="#D6E0D7"/>
+<text x="80" y="574" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Mist  #E6EEE5</text>
+<text x="80" y="598" font-family="Anek Latin" font-size="14" fill="#5A6B62">Soft fills, chips</text>
+<rect x="342" y="450" width="242" height="96" rx="16" fill="#D6E0D7" stroke="#D6E0D7"/>
+<text x="342" y="574" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Line  #D6E0D7</text>
+<text x="342" y="598" font-family="Anek Latin" font-size="14" fill="#5A6B62">Borders, dividers</text>
+<rect x="604" y="450" width="242" height="96" rx="16" fill="#13261F"/>
+<text x="604" y="574" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Ink  #13261F</text>
+<text x="604" y="598" font-family="Anek Latin" font-size="14" fill="#5A6B62">Text</text>
+<rect x="866" y="450" width="242" height="96" rx="16" fill="#5A6B62"/>
+<text x="866" y="574" font-family="Anek Latin" font-size="18" font-weight="600" fill="#13261F">Muted  #5A6B62</text>
+<text x="866" y="598" font-family="Anek Latin" font-size="14" fill="#5A6B62">Secondary text</text>
+<text x="80" y="680" font-family="Anek Latin" font-size="24" font-weight="600" fill="#13261F">Type: Anek Latin (display width 118, body width 100)</text>
+<text x="80" y="724" font-family="Anek Latin" font-size="13" fill="#5A6B62">Display / 84 / Bold / wdth 118</text>
+<text x="80" y="794" font-family="Anek Latin" font-size="64" font-weight="700" fill="#13261F">Recharge in seconds.</text>
+<text x="80" y="832" font-family="Anek Latin" font-size="13" fill="#5A6B62">Heading / 48 / Bold / wdth 110</text>
+<text x="80" y="878" font-family="Anek Latin" font-size="40" font-weight="700" fill="#13261F">One wallet for every bill.</text>
+<text x="80" y="916" font-family="Anek Latin" font-size="13" fill="#5A6B62">Body / 18 / Regular</text>
+<text x="80" y="940" font-family="Anek Latin" font-size="18" font-weight="400" fill="#13261F">Mobile, DTH, electricity, gas and more, paid from one wallet.</text>
+<text x="80" y="978" font-family="Anek Latin" font-size="13" fill="#5A6B62">Label / 14 / Medium</text>
+<text x="80" y="998" font-family="Anek Latin" font-size="14" font-weight="500" fill="#13261F">Mobile number</text>
+<text x="900" y="680" font-family="Anek Latin" font-size="24" font-weight="600" fill="#13261F">Buttons and shapes</text>
+<rect x="900" y="710" width="240" height="52" rx="26" fill="#14A850"/>
+<text x="1020" y="742" text-anchor="middle" font-family="Anek Latin" font-size="16" font-weight="600" fill="#FFFFFF">Proceed to pay</text>
+<rect x="900" y="780" width="240" height="52" rx="26" fill="#0C3B2E"/>
+<text x="1020" y="812" text-anchor="middle" font-family="Anek Latin" font-size="16" font-weight="600" fill="#FFFFFF">Log in to recharge</text>
+<rect x="900" y="850" width="240" height="52" rx="26" fill="#FFFFFF" stroke="#D6E0D7"/>
+<text x="1020" y="882" text-anchor="middle" font-family="Anek Latin" font-size="16" font-weight="600" fill="#13261F">Get the Android app</text>
+<rect x="1170" y="710" width="110" height="32" rx="16" fill="#E6EEE5"/><text x="1225" y="731" text-anchor="middle" font-family="Anek Latin" font-size="14" font-weight="500" fill="#0C3B2E">Jio prepaid</text>
+<rect x="1170" y="780" width="200" height="52" rx="14" fill="#FFFFFF" stroke="#D6E0D7"/><text x="1186" y="812" font-family="Anek Latin" font-size="16" fill="#8A9A91">10-digit number</text>
+<g transform="rotate(-9 1230 876)"><rect x="1170" y="854" width="120" height="44" rx="10" fill="none" stroke="#F28C1B" stroke-width="3"/><text x="1230" y="885" text-anchor="middle" font-family="Anek Latin" font-size="24" font-weight="800" letter-spacing="2" fill="#F28C1B">PAID</text></g>
+<text x="900" y="960" font-family="Anek Latin" font-size="14" fill="#5A6B62">Radius: panels 22, fields 14, buttons and chips fully round.</text>
+<text x="900" y="984" font-family="Anek Latin" font-size="14" fill="#5A6B62">Receipt slips use a punched bottom edge (7px circles, 18px apart).</text>
+</svg>
